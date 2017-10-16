@@ -35,7 +35,7 @@
 							<gco:CharacterString>Bogotá</gco:CharacterString>
 						</gmd:city>
 						<gmd:postalCode>
-							<gco:CharacterString>11111</gco:CharacterString>
+							 <gco:CharacterString>11111</gco:CharacterString>
 						</gmd:postalCode>
 						<gmd:country>
 							<gco:CharacterString>Colombia</gco:CharacterString>
